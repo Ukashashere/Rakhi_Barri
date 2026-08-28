@@ -1,8 +1,9 @@
-### Just a website for many 
-## Not for you and me😍💗
-# Its everything for me 🥹
-![HugVarchieGIF](https://github.com/user-attachments/assets/d4c8228f-9d27-4ee8-8338-e5a0e049402c) <br>
-![SadGIF](https://github.com/user-attachments/assets/109a06d8-86c5-4dd7-8795-fbb7ea7639ed) <br>
-©️Trishita <br>
-All Rights Reserved <br>
-Of my Heart and everyhing Else🥹💗💗
+### Happy Rakhi 
+## Didn't send rakhiiiiiiiiii????????????????????????????????????
+### WTFF
+<img width="480" height="410" alt="RakshaBandhanLoveGIFbyChibiSamosa" src="https://github.com/user-attachments/assets/ad6988b1-e780-4f46-8bae-d3fcdc68a57b" /> <br>
+# Byee Barriii!!
+<img width="800" height="1000" alt="Suggestion" src="https://github.com/user-attachments/assets/a54ed088-d311-4892-bc2d-a8088ec2978a" /> <br>
+
+## Always Remember Who's The Best
+### M E
