@@ -17,45 +17,45 @@ const answers_no = {
         "Ok, Let's just start over.."
     ],
     french: [
-        "Non",
-        "Tu es sûr ?",
-        "Tu es vraiment sûr ??",
-        "Tu es vraiment vraiment sûr ???",
-        "Réfléchis encore?",
-        "Tu ne crois pas aux deuxièmes chances ?",
-        "Pourquoi tu es si froid?",
-        "Peut-être, on peut en parler ?",
-        "Je ne vais pas demander encore une fois!",
-        "D'accord, maintenant ca me fait mal!",
-        "Tu es juste méchant!",
-        "Pourquoi tu me fais ça?",
-        "Donnez-moi une chance plz!",
-        "Je te supplie d'arrêter!",
-        "D'accord, recommençons.."
+        "No",
+        "Are you sure?",
+        "Are you really sure??",
+        "Are you really realy sure???",
+        "Think again?",
+        "Are You Crwwazzzyy?",
+        "You Beinggg Madd nowww?",
+        "Maybe we can talk about it?",
+        "I am not going to ask again!",
+        "Now this is Sad!",
+        "You are now just being mean!",
+        "What Daaa?",
+        "Please Stop Forcing it!",
+        "Just stop!",
+        "Ok, Let's just start over.."
     ],
     thai: [
-        "ไม่อ่ะ",
-        "แน่ใจจริงๆหรอคะ?",
-        "แน่ใจจริงๆ จริงๆนะคะ?",
-        "อย่าบอกนะว่านี่แน่ใจสุดๆแล้วจริงๆ ?",
-        "ลองคิดดูอีกทีหน่อยสิคะ..",
-        "ขอโอกาศที่สองทีค่ะ..",
-        "อย่าเย็นชาสิคะ กระซิกๆ",
-        "ขอร้องนะคะ",
-        "น้าาาๆๆๆๆๆ",
-        "เราจะร้องไห้เอานะ กระซิกๆ",
-        "จะเอางี้ๆจริงหรอคะ",
-        "ฮือออออ",
-        "ขอโอกาศครั้งที่สองที่ค่ะ!",
-        "ขอร้องละค่าาา",
-        "โอเคค่ะ.. งั้นเริ่มใหม่ !"
+        "No",
+        "Are you sure?",
+        "Are you really sure??",
+        "Are you really realy sure???",
+        "Think again?",
+        "Are You Crwwazzzyy?",
+        "You Beinggg Madd nowww?",
+        "Maybe we can talk about it?",
+        "I am not going to ask again!",
+        "Now this is Sad!",
+        "You are now just being mean!",
+        "What Daaa?",
+        "Please Stop Forcing it!",
+        "Just stop!",
+        "Ok, Let's just start over.."
     ]
 };
 
 answers_yes = {
     "english": "Yes",
-    "french": "Oui",
-    "Thailand": "เย่ คืนดีกันแล้วน้า"
+    "french": "Yes",
+    "Thailand": "Yes"
 }
 
 let language = "english"; // Default language is English
@@ -124,11 +124,11 @@ function changeLanguage() {
     // Update question heading
     const questionHeading = document.getElementById("question-heading");
     if (language === "french") {
-        questionHeading.textContent = "Tu veux être mon valentin?";
+        questionHeading.textContent = "Are you a Sigma Mohitha?";
     } else if (language === "thai") {
-        questionHeading.textContent = "คืนดีกับเราได้อ่ะป่าว?";
+        questionHeading.textContent = "Are you a Sigma Mohitha?";
     } else {
-        questionHeading.textContent = "Will you be my valentine?";
+        questionHeading.textContent = "Are you a Sigma Mohitha?";
     }
 
     // Reset yes button text
@@ -144,10 +144,10 @@ function changeLanguage() {
     // Update success message
     const successMessage = document.getElementById("success-message");
     if (language === "french") {
-        successMessage.textContent = "Yepppie, à bientôt :3";
+        successMessage.textContent = "What Da? IT WAS SOOO SIMPLEEE 🤷‍♂️";
     } else if (language === "thai") {
-        successMessage.textContent = "ฮูเร่ คืนดีกันแล้วน้า :3";
+        successMessage.textContent = "What Da? IT WAS SOOO SIMPLEEE 🤷‍♂️";
     } else {
-        successMessage.textContent = "Yepppie, see you sooonnn :3";
+        successMessage.textContent = "What Da? IT WAS SOOO SIMPLEEE 🤷‍♂️";
     }
 }
